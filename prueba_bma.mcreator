@@ -1,0 +1,240 @@
+{
+  "mod_elements": [
+    {
+      "name": "Gladimite",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gladimite"
+    },
+    {
+      "name": "Gladite",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gladite"
+    },
+    {
+      "name": "Glamorpicaxe",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glamorpicaxe"
+    },
+    {
+      "name": "Picaxecraft",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "picaxecraft"
+    },
+    {
+      "name": "Gladitecraft",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gladitecraft"
+    },
+    {
+      "name": "Gladimiteore",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gladimiteore"
+    },
+    {
+      "name": "Elvil",
+      "type": "plant",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elvil"
+    },
+    {
+      "name": "Elvildust",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elvildust"
+    },
+    {
+      "name": "ElvilPotion",
+      "type": "potion",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elvil_potion"
+    },
+    {
+      "name": "Elvildustrecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elvildustrecipe"
+    },
+    {
+      "name": "Darkmor",
+      "type": "armor",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "GladmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gladmor_armor_helmet_recipe"
+    },
+    {
+      "name": "GladmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gladmor_armor_body_recipe"
+    },
+    {
+      "name": "GladmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gladmor_armor_leggings_recipe"
+    },
+    {
+      "name": "GladmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gladmor_armor_boots_recipe"
+    },
+    {
+      "name": "Bmod",
+      "type": "tab",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bmod"
+    },
+    {
+      "name": "Mesacrafteoprueba",
+      "type": "gui",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mesacrafteoprueba"
+    },
+    {
+      "name": "Anvil",
+      "type": "gui",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anvil"
+    },
+    {
+      "name": "GladamiteSword",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gladamite_sword"
+    },
+    {
+      "name": "MesaDePrueba",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mesa_de_prueba"
+    },
+    {
+      "name": "MesaDeCrafteo",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mesa_de_crafteo",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Nada",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nada"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.minecraft.potion.effect.elvil_potion": "Potion of Elvil ",
+      "item.prueba_bma.gladite": "Gladite",
+      "item.prueba_bma.elvildust": "Elvildust",
+      "block.prueba_bma.nada": "Nada",
+      "item.prueba_bma.darkmor_leggings": "Darkmor Leggings",
+      "item.minecraft.tipped_arrow.effect.elvil_potion": "Arrow of Elvil ",
+      "item.prueba_bma.darkmor_boots": "Darkmor Boots",
+      "item.minecraft.lingering_potion.effect.elvil_potion": "Lingering Potion of Elvil ",
+      "item.prueba_bma.gladimiteore": "Gladore",
+      "item.prueba_bma.gladamite_sword": "Gladamite Sword",
+      "item.prueba_bma.darkmor_chestplate": "Darkmor Body",
+      "itemGroup.tabbmod": "Bmod",
+      "block.prueba_bma.gladimite": "Gladimite",
+      "item.minecraft.splash_potion.effect.elvil_potion": "Splash Potion of Elvil ",
+      "block.prueba_bma.mesa_de_prueba": "Mesa De Prueba",
+      "item.prueba_bma.glamorpicaxe": "Glorpicaxe",
+      "item.prueba_bma.darkmor_helmet": "Darkmor Helmet",
+      "block.prueba_bma.elvil": "Elvil"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "prueba_bma",
+    "modName": "Prueba",
+    "version": "1.0.0",
+    "author": "jamm58, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.pruebabma",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

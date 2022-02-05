@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "prueba_bma:gladite"
+    },
+    "1": {
+      "item": "prueba_bma:gladite"
+    },
+    "2": {
+      "item": "prueba_bma:gladite"
+    },
+    "3": {
+      "item": "prueba_bma:gladite"
+    },
+    "5": {
+      "item": "prueba_bma:gladite"
+    },
+    "6": {
+      "item": "prueba_bma:gladite"
+    },
+    "8": {
+      "item": "prueba_bma:gladite"
+    }
+  },
+  "result": {
+    "item": "prueba_bma:darkmor_leggings",
+    "count": 1
+  }
+}

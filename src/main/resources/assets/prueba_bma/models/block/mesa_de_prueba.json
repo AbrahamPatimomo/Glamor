@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "prueba_bma:blocks/gladimite_block",
+    "up": "prueba_bma:blocks/mesaporarriba",
+    "north": "prueba_bma:blocks/anvil_mesa_textura_frente",
+    "east": "prueba_bma:blocks/gladimite_block",
+    "south": "prueba_bma:blocks/gladimite_block",
+    "west": "prueba_bma:blocks/gladimite_block",
+    "particle": "prueba_bma:blocks/gladimite_block"
+  }
+}

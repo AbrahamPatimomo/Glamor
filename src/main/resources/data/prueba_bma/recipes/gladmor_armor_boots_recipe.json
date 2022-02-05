@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "prueba_bma:gladite"
+    },
+    "2": {
+      "item": "prueba_bma:gladite"
+    },
+    "3": {
+      "item": "prueba_bma:gladite"
+    },
+    "5": {
+      "item": "prueba_bma:gladite"
+    }
+  },
+  "result": {
+    "item": "prueba_bma:darkmor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Elvil ",
+    "splashName": "Splash Potion of Elvil ",
+    "lingeringName": "Lingering Potion of Elvil ",
+    "arrowName": "Arrow of Elvil ",
+    "effects": [
+      {
+        "effect": {
+          "value": "FIRE_RESISTANCE"
+        },
+        "duration": 3600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "LEVITATION"
+        },
+        "duration": 100,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

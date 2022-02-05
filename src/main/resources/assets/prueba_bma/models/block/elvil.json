@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "prueba_bma:blocks/elvil_flower_texture",
+    "particle": "prueba_bma:blocks/elvil_flower_texture"
+  }
+}

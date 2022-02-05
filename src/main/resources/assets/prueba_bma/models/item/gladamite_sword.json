@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "prueba_bma:items/gladimite_sword_texture"
+  }
+}

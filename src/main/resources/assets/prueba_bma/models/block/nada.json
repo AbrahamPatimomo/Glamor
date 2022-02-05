@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "prueba_bma:blocks/nada",
+    "up": "prueba_bma:blocks/nada",
+    "north": "prueba_bma:blocks/nada",
+    "east": "prueba_bma:blocks/nada",
+    "south": "prueba_bma:blocks/nada",
+    "west": "prueba_bma:blocks/nada",
+    "particle": "prueba_bma:blocks/nada"
+  }
+}
